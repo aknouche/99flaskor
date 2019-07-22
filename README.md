@@ -1,2 +1,2 @@
 # 99flaskor
-En svensk barnvänlig version med läskflaskor
+En non-alcohol version in swedish language
